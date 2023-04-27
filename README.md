@@ -4,8 +4,8 @@ Hello! I like to dabble.
 
 GitHub Stats
 --
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=EricLin-jpg&show_icons=true&include_all_commits=true&theme=gotham&include_private_commits=false" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricLin-jpg&theme=gotham&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=ericlin-jpg&show_icons=true&include_all_commits=true&theme=gotham" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlin-jpg&theme=gotham&layout=compact" />
 <br/>
 
 Languages and Tools
